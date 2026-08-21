@@ -1,4 +1,4 @@
-# task-tracker — скилл для работы с трекером задач через MCP
+# avadge-task-tracker — скилл работы с трекером задач AVADGE через MCP
 
 Скилл для Claude Code / Claude Agent SDK: описывает, как ассистент работает с
 task-трекером — как классифицировать задачу, как писать её текст, чем доказывать
@@ -8,13 +8,13 @@ task-трекером — как классифицировать задачу, 
 ## Установка
 
 ```bash
-git clone <этот-репозиторий> ~/.claude/skills/task-tracker
+git clone https://github.com/dglooo/avadge-task-tracker ~/.claude/skills/avadge-task-tracker
 ```
 
-Либо положить папку в `.claude/skills/task-tracker/` внутри проекта — тогда скилл
+Либо положить папку в `.claude/skills/avadge-task-tracker/` внутри проекта — тогда скилл
 виден только в нём.
 
-Проверка: `/task-tracker` в Claude Code.
+Проверка: `/avadge-task-tracker` в Claude Code.
 
 ## Что внутри
 
